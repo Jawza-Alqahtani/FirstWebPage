@@ -238,13 +238,7 @@ header {
 
 }
 
-h3 {
-    font-size:32px;
-}
 
-h2 {
-  font-size: 38px;
-}
 @media screen and (max-width: 780px) {
 
     .hero-text h3 {
