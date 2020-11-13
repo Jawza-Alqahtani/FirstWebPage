@@ -239,14 +239,21 @@ header {
 }
 
 h3 {
-    font-size:75px;
+    font-size:40px;
 }
 
+h1 {
+  font-size: 70px;
+}
 @media screen and (max-width: 780px) {
 
     .hero-text h3 {
         text-align: center;
-        font-size: 2em;
+        font-size: 1.5em;
+    }
+
+    .hero-text h1 {
+      font-size: 2em;
     }
    
   }
